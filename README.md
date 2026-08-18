@@ -49,9 +49,9 @@ Doing that unattended needs a rolling window: a daily job that uploads only the 
 videos, schedules them from a CSV, and deletes each one from the cloud once it's published — so
 storage stays flat forever and nobody touches it.
 
-That's [**Social Publish Autopilot**](https://autopilot.myzenzone.app/) — CSV bulk scheduling, the
+That's [**Social Publish Autopilot**](https://autopilot.fynl.io/) — CSV bulk scheduling, the
 NAS Docker daemon, auto-cleanup, and the Instagram Business + Pinterest setup written out step by
-step. Its sibling, [Social Video Factory](https://videofactory.myzenzone.app/), builds the branded
+step. Its sibling, [Social Video Factory](https://videofactory.fynl.io/), builds the branded
 videos in the first place.
 
 ## Requirements
