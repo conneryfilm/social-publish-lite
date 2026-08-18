@@ -1,0 +1,5 @@
+scripts/config.json
+scripts/.token
+.token
+.DS_Store
+__pycache__/
