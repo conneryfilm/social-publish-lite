@@ -1,0 +1,7 @@
+{
+  "_comment": "Copy to config.json and fill in. config.json and .token are gitignored — never commit either.",
+  "base_url": "https://app.content360.io/os/api",
+  "workspace": "YOUR-WORKSPACE-UUID",
+  "token_file": "./.token"
+}
+
