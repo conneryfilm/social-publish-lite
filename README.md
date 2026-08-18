@@ -6,10 +6,10 @@ Pinterest at once**, through a [Content360](https://app.content360.io) / OnlySoc
 One command. Six platforms. No monthly fee beyond the tool you already pay for.
 
 ```bash
-python3 scripts/post_one.py \\
-  --video ~/Videos/clip.mp4 \\
-  --accounts-ids 111111,222222,333333 \\
-  --caption "Morning rain for deep focus" \\
+python3 scripts/post_one.py \
+  --video ~/Videos/clip.mp4 \
+  --accounts-ids 111111,222222,333333 \
+  --caption "Morning rain for deep focus" \
   --when "2026-09-01 09:00"
 ```
 
@@ -63,4 +63,3 @@ videos in the first place.
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
