@@ -89,7 +89,7 @@ That is fine for a handful of posts. It stops working when you have a library, b
 Solving that needs a rolling window — a daily job that uploads only the next few days of videos,
 schedules them from a CSV, and deletes each one from the cloud after it publishes, so storage
 stays flat forever and nobody touches it. That is what
-[Social Publish Autopilot](https://autopilot.myzenzone.app/) does: CSV bulk scheduling, the NAS
+[Social Publish Autopilot](https://autopilot.fynl.io/) does: CSV bulk scheduling, the NAS
 Docker daemon, the auto-cleanup, and the Instagram Business / Pinterest board setup written out
 step by step.
 
